@@ -51,7 +51,7 @@ yesBtn.addEventListener('click', () => {
     mainImage.src = 'images/yes.gif';
 
     // Change text
-    question.textContent = "yeeee seee u sonn 💖";
+    question.textContent = "yeeee seee u sooon 💖";
 
     // Remove the buttons
     document.querySelector('.btn-group').style.display = 'none';
